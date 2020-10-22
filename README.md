@@ -3,7 +3,7 @@
 ## :pencil2: **Frase Motivacional**
 
 <p>
-<blockquote align="center">“Sua única limitação é você mesmo”!</blockquote>
+<blockquote align="center">“O aprendizado é continuo”!</blockquote>
 </p>
 
 
