@@ -21,4 +21,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ---
 
-<blockquote align="center">Feito com 💙 by Felipe Alves</blockquote>
+Feito com 💙 by Felipe Alves :wave:
