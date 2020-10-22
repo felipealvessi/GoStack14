@@ -7,17 +7,13 @@
 </p>
 
 
-## 👨🏾‍💻 **Cronograma de estudos**
+## 👨🏾‍💻 **Desafios**
 
-.<blockquote align="center"> 📄 **[Link do Cronograma](https://www.notion.so/felipealvessi/GoStack-14-566f92cf23eb4cc0b5fc3160084aa4c2)**
-</blockquote>
-
-
-
-## :memo: Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+ * **[Desafio 1: Organizando seus estudos](https://github.com/felipealvessi/GoStack14/blob/main/Desafio1/README.md)**
 
 ---
 
-<blockquote align="center">Feito com 💙 by Felipe Alves</blockquote>
+Feito com 💙 by Felipe Alves :wave:
+
+
+
